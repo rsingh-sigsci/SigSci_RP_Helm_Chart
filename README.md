@@ -1,4 +1,4 @@
-## Installing NGINX Signal Sciences next-gen WAF using Helm
+## Installing Signal Sciences using Helm
 
 ### Introduction:
 
